@@ -9,7 +9,7 @@ MSI Afterburner overclocking utility installed on your computer
 
 ## How to Use
 - Set a new environment variable MINE_LOC to the directory which contains lolMiner.exe
-- Unzip the package and double click on `start.bat`
+- Unzip the [package](https://github.com/gprattico/AutoMine-Releases/releases/tag/v1.0) and double click on `start.bat`
 - Set profile 1 in MSI Afterburner to be your default (not overclocked settings)
 - Set profile 2 in MSI Afterburner to be your overclocked settings.
 
